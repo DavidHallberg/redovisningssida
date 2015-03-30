@@ -1,0 +1,18 @@
+body{
+background-color: auto;
+text-align: left;
+}
+p{
+font-size:15px;
+font-family: 'Oswald', sans-serif;
+ 
+}
+p:nth-child(1) {
+  font-weight: bold;
+}
+p:nth-child(3) {
+  font-weight: bold;
+}
+p:nth-child(5) {
+  font-weight: bold;
+}
